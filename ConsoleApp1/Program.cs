@@ -9,4 +9,9 @@
     {
         Console.WriteLine("hello white");
     }
+
+    private static void GreetBlack(string[] args)
+    {
+        Console.WriteLine("hello black");
+    }
 }
